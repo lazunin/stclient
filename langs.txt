@@ -1,0 +1,111 @@
+32: Afrikaans
+53: Albanian
+61: Amharic
+10: Arabic
+20: Arabic (Egyptian)
+78: Arabic (Other)
+51: Armenian
+95: Assamese
+87: Azerbaijani
+70: Basque
+94: Belorussian
+44: Bengali
+85: Berber
+97: Bichelama
+46: Bosnian
+96: Breton
+45: Bulgarian
+67: Burmese
+52: Cambodian
+50: Catalan
+13: Chinese (Cantonese)
+7: Chinese (Mandarin)
+79: Chinese (Other)
+111: Corsican
+76: Creole (Dutch)
+73: Creole (English)
+72: Creole (French)
+74: Creole (German)
+77: Creole (Portuguese)
+75: Creole (Spanish)
+41: Croatian
+38: Czech
+35: Danish
+15: Dutch
+1: English
+63: Esperanto
+69: Estonian
+86: Fijian
+30: Finnish
+3: French
+90: Galician
+82: Georgian
+5: German
+19: Greek
+98: Guarani
+49: Gujarati
+99: Hakka
+60: Hawaiian
+29: Hebrew
+12: Hindi
+36: Hungarian
+47: Icelandic
+34: Indonesian
+33: Irish
+6: Italian
+4: Japanese
+100: Javanese
+112: Kalaallisut
+48: Kannada
+89: Kazakh
+11: Korean
+108: Kurdish
+101: Kyrgyz
+102: Ladino
+109: Laotian
+59: Latin
+65: Latvian
+57: Lithuanian
+103: Luxembourgian
+84: Macedonian
+28: Malay
+42: Malayalam
+93: Maltese
+104: Manx
+54: Marathi
+81: Mongolian
+68: Nepali
+26: Norwegian
+88: Oriya
+113: Pashto
+107: Persian (Dari)
+21: Persian (Farsi)
+23: Polish
+9: Portuguese
+40: Punjabi
+92: Quechua
+25: Romanian
+8: Russian
+58: Scottish
+31: Serbian
+56: Slovak
+62: Slovenian
+91: Somali
+2: Spanish
+43: Swahili
+18: Swedish
+14: Tagalog
+24: Tamil
+37: Telugu
+22: Thai
+64: Tibetan
+17: Turkish
+105: Turkmen
+55: Ukrainian
+16: Urdu
+110: Uyghur
+71: Uzbek
+27: Vietnamese
+83: Welsh
+106: Wolof
+66: Yiddish
